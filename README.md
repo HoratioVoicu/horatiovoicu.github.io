@@ -1,2 +1,2 @@
 # horatiovoicu.github.io
-Desscription of projects
+Description of projects
